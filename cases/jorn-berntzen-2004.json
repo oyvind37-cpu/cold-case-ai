@@ -174,6 +174,42 @@
       "status": "documented_in_court_reporting",
       "source": "https://www.aftenposten.no/oslo/i/BJj1jg/drapet-paa-egil-tostrup-braaten-i-2002-opp-i-lagmannsretten",
       "case_link": "none"
+    },
+    {
+      "id": "OSL-NIBR-2004",
+      "date": "2004-03",
+      "time": null,
+      "type": "context",
+      "title": "Ransbølge i Oslo våren 2004",
+      "description": "NIBR-rapport 2004:14 omtaler 42 ran i de første tre månedene av 2004 og gjengir et VG-kart fra 26. mars. Generell kontekst; ingen dokumentert forbindelse til Jørn Berntzen.",
+      "evidence": "contemporary_research_report",
+      "status": "documented",
+      "source": "https://www.regjeringen.no/globalassets/upload/kilde/krd/rap/2004/0016/ddd/pdfv/219560-ugripelig2004-14.pdf",
+      "case_link": "none"
+    },
+    {
+      "id": "OSL-ROSEN-2003",
+      "date": "2003-07-19",
+      "time": null,
+      "type": "context",
+      "title": "VG omtaler vold i Rosenkrantz' gate",
+      "description": "VG rapporterte om høy konsentrasjon av anmeldt vold i Rosenkrantz' gate i 2002 og målrettet politiinnsats i 2003. Historisk kontekst uten dokumentert kobling til Jørn.",
+      "evidence": "contemporary_news",
+      "status": "reported",
+      "source": "https://www.vg.no/nyheter/i/7ll56K/voldsgate-ble-fredsgate",
+      "case_link": "none"
+    },
+    {
+      "id": "OSL-ETB-2002-PRESS",
+      "date": "2002-11-19",
+      "time": null,
+      "type": "context",
+      "title": "Samtidig avisomtale av drapet på Egil Tostrup Bråten",
+      "description": "Dagbladet omtalte drapet dagen etter. Politiet hadde da ingen sikker motivteori; senere rettsbehandling knyttet hendelsen til et ransforsøk. Ikke dokumentert kobling til Jørn.",
+      "evidence": "contemporary_news",
+      "status": "reported",
+      "source": "https://www.dagbladet.no/nyheter/egil-23-drept-utenfor-hybelen/65850008",
+      "case_link": "none"
     }
   ],
   "research_questions": [
