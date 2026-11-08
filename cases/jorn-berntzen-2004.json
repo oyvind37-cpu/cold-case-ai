@@ -210,6 +210,18 @@
       "status": "reported",
       "source": "https://www.dagbladet.no/nyheter/egil-23-drept-utenfor-hybelen/65850008",
       "case_link": "none"
+    },
+    {
+      "id": "JB-ATM-8000",
+      "date": "2004-08-19",
+      "time": null,
+      "type": "financial_activity",
+      "title": "Minibankuttak på 8 000 kroner",
+      "description": "VG oppgir at siste registrerte kontobevegelse var et minibankuttak på 8 000 kroner dagen etter den opprinnelige forsvinningsdatoen. Nøyaktig klokkeslett, minibankens plassering og hvem som gjennomførte uttaket er ikke bekreftet i kilden. Brorens teori om tvang er ikke dokumentert som faktum.",
+      "evidence": "secondary_reporting_of_financial_records",
+      "status": "reported_documentary",
+      "source": "https://www.vg.no/spesial/2018/pappaen-som-forsvant/kap1/",
+      "case_link": "direct"
     }
   ],
   "research_questions": [
@@ -217,6 +229,7 @@
     "Hvilke politidokumenter beskriver etterforskningsskritt i 2004 og 2009?",
     "Finnes det offentlig dokumentasjon om minibankuttaket, og hva er sikker dato?",
     "Hvordan ble savnetmeldingen håndtert og når?",
-    "Hvilke samtidige kriminalsaker har en dokumentert, ikke bare geografisk, forbindelse?"
+    "Hvilke samtidige kriminalsaker har en dokumentert, ikke bare geografisk, forbindelse?",
+    "Hvilket eksakt klokkeslett og hvilken minibank gjelder uttaket på 8 000 kroner, og hvordan forholder det seg til AMK-samtalen 19.08 kl. 22.24?"
   ]
 }
