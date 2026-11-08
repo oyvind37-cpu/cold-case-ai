@@ -162,6 +162,18 @@
       "status": "documented",
       "source": "https://www.vg.no/spesial/2018/pappaen-som-forsvant/",
       "case_link": "direct"
+    },
+    {
+      "id": "OSL-ETB-2002",
+      "date": "2002-11-18",
+      "time": "00:45",
+      "type": "context",
+      "title": "Egil Tostrup Bråten drept i Nordahl Bruns gate",
+      "description": "23-åringen ble knivstukket ved Nordahl Bruns gate 22. Retten la senere til grunn et ransforsøk. To menn ble pågrepet i november 2016 etter gjennombrudd i DNA-etterforskningen. Ingen dokumentert forbindelse til Jørn Berntzens forsvinning.",
+      "evidence": "court_reporting",
+      "status": "documented_in_court_reporting",
+      "source": "https://www.aftenposten.no/oslo/i/BJj1jg/drapet-paa-egil-tostrup-braaten-i-2002-opp-i-lagmannsretten",
+      "case_link": "none"
     }
   ],
   "research_questions": [
